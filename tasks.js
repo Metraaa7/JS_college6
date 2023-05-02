@@ -21,6 +21,8 @@ function cc(card) {
     }  else {
         count--;
     }
+
+    show(count);
 }
 
 function show(count) {
